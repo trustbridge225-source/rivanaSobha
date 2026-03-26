@@ -51,8 +51,8 @@ export default function Footer() {
                     <div className="text-center md:text-right flex flex-col items-center md:items-end justify-between py-2">
                         <div className="mb-12">
                             <h4 className="text-xl font-bold mb-10 text-white font-serif tracking-tight border-r-4 border-gold pr-6 py-2 inline-block">Connect Now</h4>
-                            <p className="text-4xl font-black text-white mb-3 font-serif hover:text-gold transition-colors cursor-pointer">+91-7011797010</p>
-                            <p className="text-gold italic text-sm font-medium tracking-wide">concierge@sobhahomez.com</p>
+                            <p className="text-4xl font-black text-white mb-3 font-serif hover:text-gold transition-colors cursor-pointer">7303975006</p>
+                            <p className="text-gold italic text-sm font-medium tracking-wide">info@trustbridgegroup.in</p>
                         </div>
 
                         <div className="flex gap-8 items-center bg-white/5 p-6 rounded-[2rem] border border-white/5 grayscale opacity-50 hover:grayscale-0 hover:opacity-100 transition-all duration-700">
