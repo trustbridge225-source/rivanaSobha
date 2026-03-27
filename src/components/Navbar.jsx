@@ -49,8 +49,8 @@ export default function Navbar({ onOpenModal }) {
                         ))}
                     </ul>
                     <div className="flex items-center gap-8 border-l pl-10 border-primary-200/20">
-                        <a href="tel:+917303998465" className={`flex items-center gap-2.5 font-bold text-sm tracking-tight transition-colors duration-500 ${isScrolled ? 'text-primary-950' : 'text-white'}`}>
-                            <Phone size={16} className="text-gold" /> +91-7303998465
+                        <a href="tel:+917303975006" className={`flex items-center gap-2.5 font-bold text-sm tracking-tight transition-colors duration-500 ${isScrolled ? 'text-primary-950' : 'text-white'}`}>
+                            <Phone size={16} className="text-gold" /> +91-7303975006
                         </a>
                         <button
                             onClick={onOpenModal}

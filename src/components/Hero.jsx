@@ -49,7 +49,7 @@ export default function Hero({ onOpenModal }) {
                         <div className="flex flex-col md:flex-row items-center gap-4 md:gap-16 w-full md:w-auto">
                             <div className="text-center md:text-left">
                                 <p className="text-[10px] text-primary-300 uppercase tracking-[0.25em] font-bold mb-2 opacity-70">Initial Investment</p>
-                                <p className="text-4xl font-extrabold text-white font-serif">₹ 1.9 Cr* <span className="text-sm font-normal text-white/40 font-sans ml-1 tracking-normal uppercase">Onwards</span></p>
+                                <p className="text-4xl font-extrabold text-white font-serif">₹ 1.99 Cr* <span className="text-sm font-normal text-white/40 font-sans ml-1 tracking-normal uppercase">Onwards</span></p>
                             </div>
                             <div className="hidden lg:block h-12 w-px bg-white/10" />
                             <div className="text-center md:text-left">

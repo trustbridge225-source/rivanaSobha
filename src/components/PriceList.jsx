@@ -1,6 +1,6 @@
 export default function PriceList({ onOpenModal }) {
     const plans = [
-        { type: 'Luxury 2 BHK', size: '1,300 Sq.Ft.', price: '₹ 1.9 Cr.*', highlights: ['Spacious Balcony', 'Premium Master Suite', 'Ventilated Living'] },
+        { type: 'Luxury 2 BHK', size: '1,300 Sq.Ft.', price: '₹ 1.99 Cr.*', highlights: ['Spacious Balcony', 'Premium Master Suite', 'Ventilated Living'] },
         { type: 'Imperial 3 BHK', size: '1,600 Sq.Ft.', price: '₹ 2.39 Cr.*', highlights: ['Private Foyer', 'Exclusive Wardrobe Space', 'Modular Layout'] },
         { type: 'Elite 3 BHK + 3T', size: '1,900 Sq.Ft.', price: '₹ 2.75 Cr.*', highlights: ['Servant Quarter', 'Study / Pooja Room', 'Panoramic Views'] },
         { type: 'Royal 4 BHK', size: '2,300 - 2,600 Sq.Ft.', price: '₹ 3.3 Cr.*', highlights: ['Double Living Room', 'Vastu Compliant', 'Ultra-Luxury Finishes'] },
